@@ -1,0 +1,18 @@
+<resources>
+    <string name="enable_p2p_button">P2P On/Off</string>
+    <string name="discover_peers_button">Discover</string>
+    <string name="p2p_off_warning">Turn on the wi-fi</string>
+    <string name="label_me">ME</string>
+    <string name="label_peers">PEERS</string>
+    <string name="dialog_pg_name">Pg name</string>
+    <string name="dialog_pg_race">Pg race</string>
+    <string name="dialog_pg_class">Pg class</string>
+    <string name="choose_your_pg_image">choose your pg image</string>
+    <string name="let_s_begin">Let\'s begin!</string>
+    <string name="i_m_the_dm">I\'M THE DM!</string>
+    <string name="app_name">Ruoliamoci</string>
+    <string name="exit">Finish session</string>
+    <string name="pg_exit">SIGN OUT</string>
+    <string name="sembra_non_ci_siano_dm_nelle_vicinanze_accendi_il_wifi_direct_o_riprova_la_ricerca_usa_pure_i_bottoni_sopra_d">There seems to be no DM nearby: turn on wifi direct or retry the search (you can use the buttons above :D )</string>
+    <string name="organizza_nuova_sessione">Organize new session</string>
+</resources>
